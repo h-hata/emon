@@ -1,0 +1,9 @@
+SMTP mail.isr.co.jp
+TO alert@isr.co.jp
+FROM emon@isr.co.jp
+USER64 ZW1vbkBpc3IuY28uanA=
+PASS64 QUJDREU=
+STARTMAIL
+DAEMON
+#VERBOSE
+
